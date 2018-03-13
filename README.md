@@ -9,10 +9,10 @@ How to use:
 (3) confirm that you consumed the beer
 
 What happens if I do not confirm it?
-Well, this should not happen... otherwise the BeerMonster gets teh pawn.
+Well, this should not happen... otherwise the BeerMonster gets the pawn.
 
 What is the aim of the project?
 The aim is to develop Ethereum Smart contracts enforcicng people to drinking a beer together ;)
 
 How can I support this project?
-I am a student, so please support me by sending ethers to 0xC806D522517Ea8a259A616BB4329776C7DE84B7a
+I am a student, so please condiser to support me by sending ethers to 0xC806D522517Ea8a259A616BB4329776C7DE84B7a
