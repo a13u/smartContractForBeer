@@ -15,4 +15,4 @@ What is the aim of the project?
 The aim is to develop Ethereum Smart contracts enforcicng people to drinking a beer together ;)
 
 How can I support this project?
-I am a student, so please consider to support me by sending ethers to 0xC806D522517Ea8a259A616BB4329776C7DE84B7a
+I am a student, so please consider to support me by sending ethers to 0x7eF12B842Ea250c3788ddd805b4BB15de1D35871
