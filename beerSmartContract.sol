@@ -10,7 +10,7 @@ pragma solidity ^0.4.16;
 
 contract InvitationForABeerSmartContract {
     //address of the beer monster which gets the beer if the persons do not drink it (attention: aggresive)
-    address beerMonster=0xC806D522517Ea8a259A616BB4329776C7DE84B7a;
+    address beerMonster=0x7eF12B842Ea250c3788ddd805b4BB15de1D35871;
     
     //first address: inviting person, second address: invited person, third integer: pawn
     mapping(address => mapping(address=>uint)) pawnList;
